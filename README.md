@@ -7,7 +7,7 @@ https://api.slack.com/web#basics
 ## As the ChatStats app user, I want to:
 
 ### Phase 1:
-Confirm OAuth behind the scenes -- app is installed with permissioning and does not need to be validated afterward
+Confirm OAuth for _bot_ access behind the scenes -- app is installed with permissioning and does not need to be validated afterward
 
 Be invited to a channel
 
