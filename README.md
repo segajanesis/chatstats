@@ -7,10 +7,12 @@ https://api.slack.com/web#basics
 ## As the ChatStats app user, I want to:
 
 ### Phase 1:
+Confirm OAuth behind the scenes -- app is installed with permissioning and does not need to be validated afterward
 Be invited to a channel
 
 ### PHASE 1 API CALLS
 
+OAuth Join: https://api.slack.com/authentication/oauth-v2 
 Join a conversation by ID: https://api.slack.com/methods/conversations.join
 
 ### Phase 2: 
