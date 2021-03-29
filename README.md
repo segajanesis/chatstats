@@ -14,6 +14,7 @@ Be invited to a channel
 ### PHASE 1 API CALLS
 
 OAuth Join: https://api.slack.com/authentication/oauth-v2 
+
 Join a conversation by ID: https://api.slack.com/methods/conversations.join
 
 ### Phase 2: 
