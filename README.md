@@ -43,7 +43,7 @@ Retrieve message from last room: https://api.slack.com/methods/conversations.his
 
 Post a message in new room: https://api.slack.com/methods/chat.postMessage 
 
-### FUTURE STATE: Phase 4: 
+### FUTURE STATE: 
 - Counting number of posts? 
 - Limit by date range? 
 - Emoji react? Workflow builder + Custom app step
