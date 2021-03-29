@@ -8,6 +8,7 @@ https://api.slack.com/web#basics
 
 ### Phase 1:
 Confirm OAuth behind the scenes -- app is installed with permissioning and does not need to be validated afterward
+
 Be invited to a channel
 
 ### PHASE 1 API CALLS
